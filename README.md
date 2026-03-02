@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Explore+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Explore+my+GitHub+profile!)](https://github.com/denvercoder1/readme-typing-svg)
 
 # <img src="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" width="27px"> Hi there, I'm Karan
 
@@ -7,19 +7,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/super-su-msy)](https://github.com/super-su-msy)
 
 ### Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=super-su-msy&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app?username=super-su-msy&theme=gruvbox&v=1)
 
-<!-- ![stats](https://github-readme-stats.vercel.app/api?username=super-su-msy&show_icons=true&theme=radical)  -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super-su-msy&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=super-su-msy&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&v=1)
 
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=super-su-msy&repo=All_Spring_Stuff&theme=github_dark)](https://github.com/super-su-msy/All_Spring_Stuff)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=super-su-msy&repo=Flask-Mongo-Docker&theme=github_dark)](https://github.com/super-su-msy/Flask-Mongo-Docker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=super-su-msy&repo=5303-Adv-Database&theme=github_dark)](https://github.com/super-su-msy/5303-Adv-Database)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=super-su-msy&repo=React-Redux-App&theme=github_dark)](https://github.com/super-su-msy/React-Redux-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=super-su-msy&repo=Angular-Projects&theme=github_dark)](https://github.com/super-su-msy/Angular-Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=super-su-msy&repo=Excel_Apache_POI&theme=github_dark)](https://github.com/super-su-msy/Excel_Apache_POI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=super-su-msy&repo=All_Spring_Stuff&theme=github_dark&v=1)](https://github.com/super-su-msy/All_Spring_Stuff)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=super-su-msy&repo=Flask-Mongo-Docker&theme=github_dark&v=1)](https://github.com/super-su-msy/Flask-Mongo-Docker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=super-su-msy&repo=5303-Adv-Database&theme=github_dark&v=1)](https://github.com/super-su-msy/5303-Adv-Database)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=super-su-msy&repo=React-Redux-App&theme=github_dark&v=1)](https://github.com/super-su-msy/React-Redux-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=super-su-msy&repo=Angular-Projects&theme=github_dark&v=1)](https://github.com/super-su-msy/Angular-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=super-su-msy&repo=Excel_Apache_POI&theme=github_dark&v=1)](https://github.com/super-su-msy/Excel_Apache_POI)
 
 ## Programming Languages:
 
