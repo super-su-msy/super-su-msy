@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/super-su-msy)](https://github.com/super-su-msy)
 
 ### Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=super-su-msy&theme=gruvbox)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=super-su-msy&theme=radical)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=super-su-msy&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
